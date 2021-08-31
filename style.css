@@ -31,8 +31,6 @@ td {
 	color:white;
 }
 #pp img {
-	align-items: right;
-}
-#content {
-	
+	align-items: flex-end;
+	border-radius: 50%;
 }
